@@ -1,5 +1,5 @@
-# papura
-An artisan's notebook website, currently in development.
+# ceno11
+A set design collective website, currently in development.
 
 ## Usage
 
